@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @asarfraaz ( Sarfraaz Ahmed )
-- 👀 I’m interested in coding, Python, Linux, Shell Scripting, Networking, Machine Learning ...
-- 🌱 I’m currently learning Artificial Intelligence
-- 💞️ I’m looking to collaborate on any Python project
-- 📫 How to reach me sarfraaz at gmail dot come
+- 👋 Hi, I’m : @asarfraaz ( Sarfraaz Ahmed )
+- 👀 I’m interested in : writing code, Python, Linux, Shell Scripting, Networking, Machine Learning ...
+- 🌱 I’m currently learning : Artificial Intelligence
+- 💞️ I’m looking to collaborate on : any Python project
+- 📫 How to reach me : sarfraaz at gmail dot com
 
 <!---
 asarfraaz/asarfraaz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
